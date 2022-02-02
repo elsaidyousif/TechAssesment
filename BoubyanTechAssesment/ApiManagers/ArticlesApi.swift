@@ -2,8 +2,7 @@
 //  ArticlesApi.swift
 //  BoubyanTechAssesment
 //
-//  Created by elsaid.yousif on 1/2/22.
-//  Copyright © 2022.
+//  Created by elsaid yousif on 1/2/22.
 //
 
 import Foundation
