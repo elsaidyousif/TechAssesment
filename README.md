@@ -28,6 +28,7 @@ Build a simple app to hit the NY Times Most Popular Articles API and show a list
 ```
 
 ## TestCases
-
--> test if called api without errors
--> test if count of articles equal to 20
+```ruby
+test if called api without errors
+test if count of articles equal to 20
+```
