@@ -1,9 +1,9 @@
 //
-//  SettingsApi.swift
-//  Najeez
+//  ArticlesApi.swift
+//  BoubyanTechAssesment
 //
-//  Created by passant on 6/3/18.
-//  Copyright © 2018 tendegrees. All rights reserved.
+//  Created by elsaid.yousif on 1/2/22.
+//  Copyright © 2022.
 //
 
 import Foundation
