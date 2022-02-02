@@ -89,8 +89,14 @@ extension ArticlesListViewController: UITableViewDelegate, UITableViewDataSource
         if let articelTitle = ArticlesList[indexPath.row].title {
             cell.ArticleTitleLbl.text = articelTitle
         }
+        else{
+            cell.ArticleTitleLbl.text = ""
+        }
         if let articleByLine = ArticlesList[indexPath.row].byline {
                 cell.ArticleByLineLbl.text = articleByLine
+        }
+        else{
+            cell.ArticleByLineLbl.text = ""
         }
         return cell
     }
